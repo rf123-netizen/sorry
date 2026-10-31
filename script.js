@@ -272,7 +272,7 @@ const songs = [
   {
     title: "Hawayein",
     artist: "Jab Harry Met Sejal ♡",
-    file: "music/Hawaein.mp3",
+    file: "music/Hawayein.mp3",
     emoji: "🌸"
   },
 
